@@ -1,6 +1,4 @@
-/*
- * Create a list that holds all of your cards
- */
+
 var cards=['fa-diamond','fa-diamond',
             'fa-paper-plane-o','fa-paper-plane-o',
              ' fa-anchor',' fa-anchor',
